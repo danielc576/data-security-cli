@@ -1,2 +1,3 @@
-# data-dispersion-poc
-This is a POC implementation for the Data Dispersion security principle
+# Data Security CLI
+
+This is CLI implementation for the Data Dispersion and Replication Security Principles
