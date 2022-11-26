@@ -1,0 +1,14 @@
+fragment_max_size: 300000
+provider:
+  name: aws
+  accounts: 
+    - name: sandbox1
+      bucket: data-security-poc2 
+    - name: sandbox2
+      bucket: data-security-poc3
+    - name: sandbox3
+      bucket: data-security-poc4
+
+
+
+
